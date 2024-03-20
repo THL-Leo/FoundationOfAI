@@ -13,3 +13,14 @@ Simply run with a "input.txt" file in the current directory
 $ python3 homework.py
 ```
 and this will return the optimal path stored in output.txt.
+
+## Hw2: Game Playing Agent
+### Description
+This homework contains an Othello game agent that is capable of alpha-beta pruning. It will output the optimal move of the current board.
+
+### Running
+Simply run with a "input.txt" file in the current directory
+```
+$ python3 homework.py
+```
+and this will return the optimal path stored in output.txt.
